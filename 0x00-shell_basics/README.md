@@ -1,1 +1,2 @@
-This is the README.md of the folder containing my project.
+#!/bin/bash-tells the bash to execute
+pwd-Prints the present working directory
