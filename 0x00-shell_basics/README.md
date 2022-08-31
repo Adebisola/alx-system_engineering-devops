@@ -12,3 +12,4 @@ rm /tmp/my_first_directory will delete betty
 rm -r /tmp/my-first_directory will delete my_first_directory RET
 ls -al . .. /boot will list all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format. RET
 file /tmp/iamafile will Write a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your scriptls -al . .. /boot writes a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
+file /tmp/iamafile writes a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
