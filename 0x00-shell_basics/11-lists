@@ -1,2 +1,2 @@
 #!/bin/bash RET
-ls -al . .. /boot 
+ls -la . .. /boot 
