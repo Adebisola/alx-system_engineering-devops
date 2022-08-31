@@ -1,2 +1,2 @@
-#!/bin/bash RET
+#!/bin/bash
 cp -rua *.hmtl ../
