@@ -3,3 +3,4 @@ pwd-Prints the present working directory
 ls-prints the content of the working directory
 cd-changes the working directory to the user's home directory
 ls -l-it display the current directory content in long format
+ls -al- lists all the files in the working dieerctory even the hidden ones
