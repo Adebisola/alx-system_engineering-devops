@@ -1,1 +1,0 @@
-#!/bin/bash RET ls -al . ../boot 
