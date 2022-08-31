@@ -8,3 +8,4 @@ ls -aln- lists the pwd in long format, displays the user and group IDs numerical
 mkdir-creates a directory in another directory
 cd - changes the working directory to the previous one
 mv /tmp/betty/tmp/my_first_directory will move Betty in my first directory
+rm /tmp/my_first_directory will delete betty
