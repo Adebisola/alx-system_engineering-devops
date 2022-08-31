@@ -1,2 +1,2 @@
 #!/bin/bash RET
-cp -rua *.hmtl ../
+cp -u *.hmtl
