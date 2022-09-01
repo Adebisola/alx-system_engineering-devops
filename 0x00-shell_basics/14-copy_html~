@@ -1,2 +1,0 @@
-#!/bin/bash RET
-cp -rua *.html ../
