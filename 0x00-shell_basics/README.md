@@ -17,3 +17,4 @@ cp -rua *.hmtl ../ Create a script that copies all the HTML files from the curre
  mv [[:upper:]]* /tmp/u will create a script that moves all files beginning with an uppercase letter to the directory /tmp/
 rm *~ creates a script that deletes all files in the current working directory that end with the character ~.
 mkdir -p welcome/to/school creates  a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory
+0 string SCHOOL School data will create  a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0
