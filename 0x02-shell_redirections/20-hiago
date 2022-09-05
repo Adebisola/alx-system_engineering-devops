@@ -1,5 +1,5 @@
 #!/bin/bash
-tr -d [cc]
+tr -d C | tr -d c
 ~
 ~
 ~
