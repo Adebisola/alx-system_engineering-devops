@@ -9,7 +9,7 @@ sudo apt-get install -y haproxy=2.6.\*
 
 echo "
 frontend myfrontend
-        bind *:80
+        bind *:88
         default_backend myservers
 backend myservers
         balance roundrobin
