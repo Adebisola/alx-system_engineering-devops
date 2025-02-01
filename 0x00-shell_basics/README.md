@@ -1,8 +1,7 @@
 <ol>
-<>
 <li>!/bin/bash-tells the bash to execute</li>
 <li>pwd-Prints the present working directory</l>
-l<li>s-prints the content of the working directory</li>
+<li>ls-prints the content of the working directory</li>
 <li>cd-changes the working directory to the user's home directory</l>
 <li>ls -l-it display the current directory content in long format</li>
 <li>ls -al- lists all the files in the working dieerctory even the hidden ones</li>
