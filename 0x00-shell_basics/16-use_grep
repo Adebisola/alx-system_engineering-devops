@@ -1,1 +1,2 @@
+#!/bin/bash
 grep "81.143.211.90" access.log
